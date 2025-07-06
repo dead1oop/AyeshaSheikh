@@ -19,7 +19,7 @@ I'm a B.Tech student passionate about technology and programming. I love buildin
 
 ## 🚀 Projects
 
-- **[Data analysis]**: I analyzed a dataset using pytho
+- **[Data analysis]**: I analyzed a dataset using python
 
 ## 🌱 Currently Learning
 
